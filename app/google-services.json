@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152434976737",
+    "project_id": "helmetapp-2ebbe",
+    "storage_bucket": "helmetapp-2ebbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152434976737:android:1f5e8068c95d4ef47e54a0",
+        "android_client_info": {
+          "package_name": "com.example.helmetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152434976737-qrfeh542sbds4v9b331q55e7vof9q7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQ0stWrxnXLcGplLoJbcR4uxZnq95fT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152434976737-qrfeh542sbds4v9b331q55e7vof9q7bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
