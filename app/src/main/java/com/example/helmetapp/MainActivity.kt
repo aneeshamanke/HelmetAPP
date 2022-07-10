@@ -14,7 +14,9 @@ public class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
     }
+
 
     fun openWebURL(view: View) {
         val browse = Intent(Intent.ACTION_VIEW, Uri.parse("https://meet.google.com/kux-sqbh-bwy"))
